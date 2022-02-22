@@ -1,2 +1,2 @@
 # OSS-gian
-The WORKSHOP on FLOSS
+The WORKSHOP on FLOSS 
